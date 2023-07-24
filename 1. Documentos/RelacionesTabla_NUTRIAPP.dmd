@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="RelacionesTabla_NUTRIAPP" id="15795433-6F5D-681A-6768-04C91CB24741" version="3.5">
+<createdBy>GomezAngeles</createdBy>
+<createdTime>2023-07-20 00:27:29 UTC</createdTime>
+<ownerDesignName>RelacionesTabla_NUTRIAPP</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>15795433-6F5D-681A-6768-04C91CB24741</designId>
+</OSDM_Design>
